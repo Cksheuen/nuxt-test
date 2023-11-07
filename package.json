@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "@vant/nuxt": "^1.0.2",
+    "gray-matter": "^4.0.3",
     "sass": "^1.64.1"
   }
 }
